@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://umprenta.github.io/sitemap.html.gz
+Sitemap: https://umprenta.github.io/app/sitemap.html.gz
+Sitemap: https://umprenta.github.io/assets/sitemap.html.gz
+Sitemap: https://umprenta.github.io/css/sitemap.html.gz
+Sitemap: https://umprenta.github.io/includes/sitemap.html.gz
+Sitemap: https://umprenta.github.io/item/sitemap.html.gz
+Sitemap: https://umprenta.github.io/src/sitemap.html.gz
